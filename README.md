@@ -1,5 +1,5 @@
-### Name:DEVADARSHAN A S
-### REG NO:212222110007
+### Name: DEVADARSHAN A S
+### REG NO: 212222110007
 
 
 # EX 2-Control-of-Relay-Using-IoT-controller
